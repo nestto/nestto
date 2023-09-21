@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   
-![welcomegit](https://github.com/nestto/nestto/assets/125527244/7a0face9-d28e-4c39-9c21-3cc9acff6d70) 
+<img src="https://github.com/nestto/nestto/assets/125527244/a3c70ff7-c320-4cd4-8609-9a1186cfc75e" width="40%">
 
 Me chamo Ernesto tenho atualmente 28 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻
 
