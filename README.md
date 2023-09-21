@@ -1,7 +1,7 @@
 <div align="left">
 <img src="https://github.com/nestto/nestto/assets/125527244/a3c70ff7-c320-4cd4-8609-9a1186cfc75e" width="40%"> 
 <hr>
-Me chamo Ernesto tenho atualmente 28 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻
+Me chamo Ernesto, tenho 27 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻
 
 </div>
 
