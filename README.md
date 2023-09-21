@@ -1,7 +1,6 @@
 <div align="left">
-  
-<img src="https://github.com/nestto/nestto/assets/125527244/a3c70ff7-c320-4cd4-8609-9a1186cfc75e" width="40%">
-
+<img src="https://github.com/nestto/nestto/assets/125527244/a3c70ff7-c320-4cd4-8609-9a1186cfc75e" width="40%"> 
+<hr>
 Me chamo Ernesto tenho atualmente 28 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻
 
 </div>
@@ -15,8 +14,8 @@ Me chamo Ernesto tenho atualmente 28 anos e atualmente estou cursando Análise e
 <img src="https://img.shields.io/badge/excel-33c481?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" height="20px">
 
 ## Contato
-<a href="https://www.linkedin.com/in/martinsanajulia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<a href="https://www.linkedin.com/in/ernestosvidaurre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" target="_blank"></a>
+<a href = "mailto:ernesto.dev@outlook.com"><img src="https://img.shields.io/badge/outlook-3767be?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff" height="20px" ></a>
 </div>
 
 <!--
