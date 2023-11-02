@@ -13,9 +13,8 @@ Me chamo Ernesto, tenho 27 anos e atualmente estou cursando Análise e Desenvolv
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/excel-33c481?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" height="20px">
 
-## Contato
+## Social
 <a href="https://www.linkedin.com/in/ernestosvidaurre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" target="_blank"></a>
-<a href = "mailto:ernesto.dev@outlook.com"><img src="https://img.shields.io/badge/outlook-3767be?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff" height="20px" ></a>
 </div>
 
 <!--
