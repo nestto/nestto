@@ -3,7 +3,7 @@
 <hr>
 
 ### Sobre:
-Me chamo Ernesto, tenho 27 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻 <br>
+Me chamo Ernesto, tenho 28 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻 <br>
 Amo aprender, desenvolver habilidades e compartilhar experiências. 📚
 </div>
 
