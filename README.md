@@ -1,24 +1,29 @@
-<div align="left">
-<img src="https://github.com/nestto/nestto/assets/125527244/a3c70ff7-c320-4cd4-8609-9a1186cfc75e" width="40%"> 
-<hr>
-
-### Sobre:
-Me chamo Ernesto, tenho 28 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 💻 <br>
-Amo aprender, desenvolver habilidades e compartilhar experiências. 📚
-</div>
-
-### 🌱 Me desenvolvendo em:
+#### Ernesto Storani:
+**`Desenvolvedor FullStack`**
 <div>
-<img src="https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=ffffff" height="25px">  
-<img src="https://img.shields.io/badge/css-039be5?style=for-the-badge&logo=css3&logoColor=ffffff" height="25px">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25px">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px">
-<img src="https://img.shields.io/badge/Spring%20boot-0000?style=for-the-badge&logo=spring-boot&logoColor=white" height="25px">
+
+
 </div>
 
+#### 🌱 Desenvolvendo em:
+<div>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React"title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Tailwind" title="Tailwind"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  
+</div>
+<br>
 
-### Social: 
-<a href="https://www.linkedin.com/in/ernestosvidaurre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a>
+#### 📊 Estatísticas
+
+<p>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestto&theme=graywhite&custom_title=&langs_count=9"/>
+</p>
 
 <!--
 **nestto/nestto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
