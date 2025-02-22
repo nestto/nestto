@@ -22,7 +22,7 @@
 #### 📊 Estatísticas
 
 <p>
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestto&theme=graywhite&custom_title=&langs_count=9"/>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestto&theme=graywhite&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 <!--
