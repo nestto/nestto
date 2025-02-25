@@ -2,9 +2,6 @@
   nesse espaço deixo meu projetos e revisões de estudos, <br>
   sinta-se à vontade para entrar em contato.</h6>
 
-#### Objetivo:
-**`Desenvolvedor FullStack`**
-
 #### 🌱 Desenvolvendo em:
 <div>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
