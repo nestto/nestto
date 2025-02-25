@@ -1,9 +1,9 @@
-#### Ernesto Storani:
+<h6>Olá, sou o Ernesto e é um prazer te ver por aqui, <br> 
+  nesse espaço deixo meu projetos e revisões de estudos, <br>
+  sinta-se à vontade para entrar em contato.</h6>
+
+#### Objetivo:
 **`Desenvolvedor FullStack`**
-<div>
-
-
-</div>
 
 #### 🌱 Desenvolvendo em:
 <div>
